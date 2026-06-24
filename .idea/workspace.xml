@@ -5,7 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23281933-d7ff-47d1-8a7c-b1286efec659" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTestPlaywright.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTestPlaywright.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP06AgregarPlatoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP07FiltrarPedidosTodosPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP08FiltrarPedidosEstadoMesPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP09GenerarCuentaPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP10RegistroExitosoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP11RegistroNombreMinimoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP12RegistroContrasenaSeisCaracteresPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP13LoginCamareroExitosoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP14LoginCocineroExitosoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP15LoginAdministradorExitosoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP16LoginConContrasenaIncorrectaPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP17LoginCamposVaciosPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP18LoginUsuarioNoRegistradoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP19CrearPedidoUnProductoPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP20CrearPedidoMultiplesProductosPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP21CrearPedidoCantidadMinimaPlaywrightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/HP22ProductoDeshabilitadoNoVisiblePlaywrightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evidencias/HP02-secciones-cocinero.png" beforeDir="false" afterPath="$PROJECT_DIR$/evidencias/HP02-secciones-cocinero.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evidencias/HP03-pedido-en-preparacion.png" beforeDir="false" afterPath="$PROJECT_DIR$/evidencias/HP03-pedido-en-preparacion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evidencias/HP04-pedido-entregado.png" beforeDir="false" afterPath="$PROJECT_DIR$/evidencias/HP04-pedido-entregado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.HP01PanelCocineroPlaywrightTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.HP01PanelCocineroPlaywrightTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.HP02SeccionesCocineroPlaywrightTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.HP02SeccionesCocineroPlaywrightTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.HP03CambiarEstadoPreparacionPlaywrightTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.HP03CambiarEstadoPreparacionPlaywrightTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.HP01PanelCocineroPlaywrightTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.HP01PanelCocineroPlaywrightTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.HP02SeccionesCocineroPlaywrightTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.HP02SeccionesCocineroPlaywrightTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.HP03CambiarEstadoPreparacionPlaywrightTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.HP03CambiarEstadoPreparacionPlaywrightTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BaseTestPlaywright.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BaseTestPlaywright.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +55,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="3FZSpWjjuh9miLZ8tgiQcDA0Mke" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,13 +75,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.github" />
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test/tests" />
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HP04MarcarPedidoEntregadoPlaywrightTest">
-    <configuration name="HP02SeccionesCocineroPlaywrightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HP22ProductoDeshabilitadoNoVisiblePlaywrightTest">
+    <configuration name="HP18LoginUsuarioNoRegistradoPlaywrightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestaurantePlaywrightQA" />
       <extension name="coverage">
         <pattern>
@@ -59,13 +91,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.HP02SeccionesCocineroPlaywrightTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.HP18LoginUsuarioNoRegistradoPlaywrightTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HP04MarcarPedidoEntregadoPlaywrightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HP19CrearPedidoUnProductoPlaywrightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestaurantePlaywrightQA" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +106,52 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.HP04MarcarPedidoEntregadoPlaywrightTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.HP19CrearPedidoUnProductoPlaywrightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HP20CrearPedidoMultiplesProductosPlaywrightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestaurantePlaywrightQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.HP20CrearPedidoMultiplesProductosPlaywrightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HP21CrearPedidoCantidadMinimaPlaywrightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestaurantePlaywrightQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.HP21CrearPedidoCantidadMinimaPlaywrightTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HP22ProductoDeshabilitadoNoVisiblePlaywrightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestaurantePlaywrightQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.HP22ProductoDeshabilitadoNoVisiblePlaywrightTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,8 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HP04MarcarPedidoEntregadoPlaywrightTest" />
-        <item itemvalue="JUnit.HP02SeccionesCocineroPlaywrightTest" />
+        <item itemvalue="JUnit.HP22ProductoDeshabilitadoNoVisiblePlaywrightTest" />
+        <item itemvalue="JUnit.HP21CrearPedidoCantidadMinimaPlaywrightTest" />
+        <item itemvalue="JUnit.HP20CrearPedidoMultiplesProductosPlaywrightTest" />
+        <item itemvalue="JUnit.HP19CrearPedidoUnProductoPlaywrightTest" />
+        <item itemvalue="JUnit.HP18LoginUsuarioNoRegistradoPlaywrightTest" />
       </list>
     </recent_temporary>
   </component>

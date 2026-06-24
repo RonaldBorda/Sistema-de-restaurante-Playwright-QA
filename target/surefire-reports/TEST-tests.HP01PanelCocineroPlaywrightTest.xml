@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="tests.HP01PanelCocineroPlaywrightTest" time="6.112" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="tests.HP01PanelCocineroPlaywrightTest" time="5.21" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="26"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -13,7 +13,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="PE"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/26.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/surefire/surefirebooter-20260624122148846_3.jar /Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/surefire 2026-06-24T12-21-48_793-jvmRun1 surefire-20260624122148846_1tmp surefire_0-20260624122148846_2tmp"/>
+    <property name="sun.java.command" value="/Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/surefire/surefirebooter-20260624163018219_3.jar /Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/surefire 2026-06-24T16-30-18_168-jvmRun1 surefire-20260624163018219_1tmp surefire_0-20260624163018219_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/test-classes:/Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/classes:/Users/ronaldborda/.m2/repository/com/microsoft/playwright/playwright/1.49.0/playwright-1.49.0.jar:/Users/ronaldborda/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/Users/ronaldborda/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar:/Users/ronaldborda/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/ronaldborda/.m2/repository/com/microsoft/playwright/driver/1.49.0/driver-1.49.0.jar:/Users/ronaldborda/.m2/repository/com/microsoft/playwright/driver-bundle/1.49.0/driver-bundle-1.49.0.jar:/Users/ronaldborda/.m2/repository/org/junit/jupiter/junit-jupiter/5.12.2/junit-jupiter-5.12.2.jar:/Users/ronaldborda/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.12.2/junit-jupiter-api-5.12.2.jar:/Users/ronaldborda/.m2/repository/org/junit/platform/junit-platform-commons/1.12.2/junit-platform-commons-1.12.2.jar:/Users/ronaldborda/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/ronaldborda/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.12.2/junit-jupiter-params-5.12.2.jar:/Users/ronaldborda/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.12.2/junit-jupiter-engine-5.12.2.jar:/Users/ronaldborda/.m2/repository/org/junit/platform/junit-platform-engine/1.12.2/junit-platform-engine-1.12.2.jar:"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/surefire/surefirebooter-20260624122148846_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/ronaldborda/Documents/workspace-Java/RestaurantePlaywrightQA/target/surefire/surefirebooter-20260624163018219_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="26.0.1"/>
@@ -60,5 +60,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="70.0"/>
   </properties>
-  <testcase name="panelCocineroMuestraPedidosPendientes" classname="tests.HP01PanelCocineroPlaywrightTest" time="5.483"/>
+  <testcase name="panelCocineroMuestraPedidosPendientes" classname="tests.HP01PanelCocineroPlaywrightTest" time="4.958"/>
 </testsuite>
